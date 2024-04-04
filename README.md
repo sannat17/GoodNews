@@ -3,7 +3,7 @@
 - I plan to learn more about Machine Learning, Natural Language Processing and Computational Linguistics while tackling the problem of scoring articles based on how opinionated/ biased they may be.
 
 # Initial Inspiration
-- I started with a Fake vs Real news classifier which I worked on for my intro to Machine Learning course at University,
+- Projects from ML / NLP courses at University: Fake vs real news detection, identifying political bias on reddit
 
 # Project structure
 ## Research
