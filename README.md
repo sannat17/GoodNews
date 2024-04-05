@@ -1,5 +1,5 @@
 # Aim
-- This project aims to expose people who want to learn about current events to less biased content.
+- This project aims to enable people browse the internet while being aware of inherent biases in content.
 - I plan to learn more about Machine Learning, Natural Language Processing and Computational Linguistics while tackling the problem of scoring articles based on how opinionated/ biased they may be.
 
 # Initial Inspiration
